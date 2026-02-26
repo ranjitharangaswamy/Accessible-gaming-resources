@@ -84,18 +84,6 @@ const adaptiveResources: ResourceCardProps[] = [
 
 const reviewSites: ResourceCardProps[] = [
   {
-    name: 'DAGERS SYSTEM',
-    description: 'A source for video game accessibility reviews, helping disabled gamers find playable titles.',
-    url: 'https://dagersystem.com/review/',
-    category: 'REVIEWS',
-  },
-  {
-    name: 'GAME ACCESSIBILITY',
-    description: 'Educates gamers about accessible games and serves as an academic resource for gaming industry professionals.',
-    url: 'https://www.game-accessibility.com/',
-    category: 'EDUCATION',
-  },
-  {
     name: 'IGDA GAME ACCESSIBILITY SIG',
     description: 'International Game Developers Association group focused on making games more accessible from the development side.',
     url: 'https://igda-gasig.org/',
